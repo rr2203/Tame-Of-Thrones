@@ -10,7 +10,7 @@ Solution for the golden crown problem coding challenge on geektrust
 ## Steps to run the program:
 1. Clone the repository
 ```
-$ git clone https://github.com/rrahulraj/tame-of-thrones.git
+$ git clone https://github.com/rr2203/tame-of-thrones.git
 ```
 2. In the root directory execute the following command to install dependencies
 ```
